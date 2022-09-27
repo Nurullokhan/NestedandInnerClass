@@ -6,6 +6,6 @@ fun main(args: Array<String>) {
     println(outer.a)
 
     val inner = Outer().Inner()
-    println(inner.callMe())
+    println(inner.callMe()) //This is inner function
 
 }
