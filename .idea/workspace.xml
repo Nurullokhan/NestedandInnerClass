@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df4be7d5-e131-4940-8d80-66a4ae8a4bf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NestedandInnerClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InnerClass/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InnerClass/Outer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NestedClass/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NestedClass/Outer.kt" afterDir="false" />
+    <list default="true" id="df4be7d5-e131-4940-8d80-66a4ae8a4bf5" name="Changes" comment="For Beginners">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +36,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/IntellijIdea/Yordamchi Darslar Kotlin 2/src/Lesson4"
+    "last_opened_file_path": "D:/IntellijIdea/Yordamchi Darslar Kotlin 2/src/Lesson4",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager" selected="Kotlin.MainKt (1)">
@@ -81,6 +73,21 @@
       <option name="presentableId" value="Default" />
       <updated>1664259115977</updated>
     </task>
+    <task id="LOCAL-00001" summary="For Beginners">
+      <created>1664260307042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664260307042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="For Beginners">
+      <created>1664260348070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664260348070</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="For Beginners" />
+    <option name="LAST_COMMIT_MESSAGE" value="For Beginners" />
   </component>
 </project>
